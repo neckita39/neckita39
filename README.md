@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @neckita39
-- 👀 I’m interested in Swift, JS, C++, CSS, Python
-- 🌱 I’m currently learning Swift, JS, C++, CSS, Python
+PHP, JS
 
 
 <!---
